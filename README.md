@@ -26,6 +26,14 @@ The town structure consists of a map as below:
 
 The color of the buildings indicate the health of the buildings. Same works for the King and Barbarians.
 
+## Demo:
+
+
+https://user-images.githubusercontent.com/71231079/187425744-19cce0d7-4c79-4362-b5ee-90cf194bcf8a.mov
+
+
+
+
 ## Village:
 
 Press '1', '2','3' => to get respective spawning points.
